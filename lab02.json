@@ -1,0 +1,40 @@
+[
+{
+"books": [
+{
+"title": "Amwaj Akma",
+"price": 18.5,
+"description": "Description Book",
+"book_img":"https://cdn.aseeralkotb.com/storage/media/263976/conversions/%D8%A3%D9%85%D9%88%D8%A7%D8%AC-%D8%A3%D9%83%D9%85%D8%A7-1350-200x300-webp.webp",
+"is_checkout": true
+},
+{
+"title": "wldt mn aladm",
+"price": 19.5,
+"description": "Description Book",
+"book_img":"https://cdn.salla.sa/EjbjB/YV3wosn21xCTRPd3NEa5lGuzo8FUt7DuTOyTm93s.jpg",
+"is_checkout": true
+}
+],
+"authors": [
+{
+"name":"amr abdulhamed"
+},
+{
+"name": "waad alshamry"
+}
+],
+"borrowed_books_users": [
+{
+"user_name":"Ahmed",
+"book_title": "Amwaj Akma",
+"borrowed_date":"2023-02-19"
+},
+{
+"user_name":"Mohammed",
+"book_title": "wldt mn aladm",
+"borrowed_date":"2023-02-19"
+}
+]
+}
+]
